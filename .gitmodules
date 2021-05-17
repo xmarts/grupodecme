@@ -1,0 +1,4 @@
+[submodule "yuju_all_in_one"]
+	path = yuju_all_in_one
+	url = git@github.com:williamcolinxmarts/yuju_all_in_one.git
+	branch = 14.0
