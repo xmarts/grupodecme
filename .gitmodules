@@ -2,3 +2,6 @@
 	path = xmarts/l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
 	branch = 14.0
+[submodule "yuju_all_in_one"]
+	path = yuju_all_in_one
+	url = git@github.com:williamcolinxmarts/yuju_all_in_one.git
